@@ -32,7 +32,6 @@ app.layout = html.Div([
     ),
     html.Div(id='page-content')
 ])
-
 # Define page routing
 @app.callback(
     Output('page-content', 'children'),
