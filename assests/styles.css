@@ -1,0 +1,26 @@
+.top-navbar-container {
+    height: 60px;
+    line-height: 60px;
+    border-bottom: thin lightgrey solid;
+}
+
+.top-navbar
+{
+    text-align: center;
+}
+
+.top-navbar-container .top-navbar {
+    font-size: 22px;
+    padding-left: 5px;
+}
+
+.x-dropdown
+{
+ margin-bottom: 10px;
+}
+
+.custom-graph
+{
+    height: 5;   
+    width: 2; 
+}
